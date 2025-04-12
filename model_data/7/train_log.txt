@@ -1,0 +1,168 @@
+
+                        Epoch: 5
+                        Learning Rate: 0.0090
+                        Train Loss: 2.6281 | Train Accuracy: 0.4086
+                        Valid Loss: 2.6651 | Valid Accuracy: 0.3760
+                        Train average Time: 28.4230
+                    
+
+                        Epoch: 10
+                        Learning Rate: 0.0077
+                        Train Loss: 2.4770 | Train Accuracy: 0.4189
+                        Valid Loss: 2.6175 | Valid Accuracy: 0.4064
+                        Train average Time: 32.5166
+                    
+
+                        Epoch: 15
+                        Learning Rate: 0.0066
+                        Train Loss: 2.4428 | Train Accuracy: 0.4265
+                        Valid Loss: 2.4480 | Valid Accuracy: 0.4154
+                        Train average Time: 33.1687
+                    
+
+                        Epoch: 20
+                        Learning Rate: 0.0057
+                        Train Loss: 2.3814 | Train Accuracy: 0.4329
+                        Valid Loss: 2.4306 | Valid Accuracy: 0.4198
+                        Train average Time: 33.5911
+                    
+
+                        Epoch: 25
+                        Learning Rate: 0.0049
+                        Train Loss: 2.3496 | Train Accuracy: 0.4361
+                        Valid Loss: 2.3581 | Valid Accuracy: 0.4296
+                        Train average Time: 34.0614
+                    
+
+                        Epoch: 30
+                        Learning Rate: 0.0044
+                        Train Loss: 2.3343 | Train Accuracy: 0.4423
+                        Valid Loss: 2.3945 | Valid Accuracy: 0.4388
+                        Train average Time: 34.5696
+                    
+
+                        Epoch: 35
+                        Learning Rate: 0.0038
+                        Train Loss: 2.3176 | Train Accuracy: 0.4462
+                        Valid Loss: 2.3453 | Valid Accuracy: 0.4442
+                        Train average Time: 34.8558
+                    
+
+                        Epoch: 40
+                        Learning Rate: 0.0032
+                        Train Loss: 2.2775 | Train Accuracy: 0.4482
+                        Valid Loss: 2.2845 | Valid Accuracy: 0.4402
+                        Train average Time: 188.5297
+                    
+
+                        Epoch: 45
+                        Learning Rate: 0.0028
+                        Train Loss: 2.2582 | Train Accuracy: 0.4528
+                        Valid Loss: 2.3480 | Valid Accuracy: 0.4282
+                        Train average Time: 169.5585
+                    
+
+                        Epoch: 50
+                        Learning Rate: 0.0024
+                        Train Loss: 2.2593 | Train Accuracy: 0.4542
+                        Valid Loss: 2.2508 | Valid Accuracy: 0.4438
+                        Train average Time: 154.2677
+                    
+
+                        Epoch: 55
+                        Learning Rate: 0.0021
+                        Train Loss: 2.2285 | Train Accuracy: 0.4570
+                        Valid Loss: 2.2529 | Valid Accuracy: 0.4518
+                        Train average Time: 141.7561
+                    
+
+                        Epoch: 60
+                        Learning Rate: 0.0018
+                        Train Loss: 2.2194 | Train Accuracy: 0.4578
+                        Valid Loss: 2.2837 | Valid Accuracy: 0.4462
+                        Train average Time: 131.3739
+                    
+
+                        Epoch: 65
+                        Learning Rate: 0.0016
+                        Train Loss: 2.2329 | Train Accuracy: 0.4601
+                        Valid Loss: 2.2795 | Valid Accuracy: 0.4520
+                        Train average Time: 122.6736
+                    
+
+                        Epoch: 70
+                        Learning Rate: 0.0014
+                        Train Loss: 2.1891 | Train Accuracy: 0.4613
+                        Valid Loss: 2.2578 | Valid Accuracy: 0.4538
+                        Train average Time: 115.2115
+                    
+
+                        Epoch: 75
+                        Learning Rate: 0.0012
+                        Train Loss: 2.1857 | Train Accuracy: 0.4607
+                        Valid Loss: 2.2492 | Valid Accuracy: 0.4504
+                        Train average Time: 108.6965
+                    
+
+                        Epoch: 80
+                        Learning Rate: 0.0010
+                        Train Loss: 2.1956 | Train Accuracy: 0.4619
+                        Valid Loss: 2.2249 | Valid Accuracy: 0.4508
+                        Train average Time: 102.9895
+                    
+
+                        Epoch: 85
+                        Learning Rate: 0.0009
+                        Train Loss: 2.1815 | Train Accuracy: 0.4635
+                        Valid Loss: 2.2405 | Valid Accuracy: 0.4528
+                        Train average Time: 97.9734
+                    
+
+                        Epoch: 90
+                        Learning Rate: 0.0008
+                        Train Loss: 2.1933 | Train Accuracy: 0.4634
+                        Valid Loss: 2.2534 | Valid Accuracy: 0.4546
+                        Train average Time: 93.5526
+                    
+
+                        Epoch: 95
+                        Learning Rate: 0.0007
+                        Train Loss: 2.1711 | Train Accuracy: 0.4654
+                        Valid Loss: 2.2155 | Valid Accuracy: 0.4530
+                        Train average Time: 89.5930
+                    
+
+                        Epoch: 100
+                        Learning Rate: 0.0006
+                        Train Loss: 2.1783 | Train Accuracy: 0.4655
+                        Valid Loss: 2.2650 | Valid Accuracy: 0.4494
+                        Train average Time: 86.0265
+                    
+
+                        Epoch: 105
+                        Learning Rate: 0.0005
+                        Train Loss: 2.1811 | Train Accuracy: 0.4655
+                        Valid Loss: 2.2223 | Valid Accuracy: 0.4544
+                        Train average Time: 82.7976
+                    
+
+                        Epoch: 110
+                        Learning Rate: 0.0004
+                        Train Loss: 2.1723 | Train Accuracy: 0.4677
+                        Valid Loss: 2.1935 | Valid Accuracy: 0.4552
+                        Train average Time: 79.8604
+                    
+
+                        Epoch: 115
+                        Learning Rate: 0.0004
+                        Train Loss: 2.1789 | Train Accuracy: 0.4661
+                        Valid Loss: 2.2130 | Valid Accuracy: 0.4534
+                        Train average Time: 77.1785
+                    
+
+                        Epoch: 120
+                        Learning Rate: 0.0003
+                        Train Loss: 2.1645 | Train Accuracy: 0.4677
+                        Valid Loss: 2.2224 | Valid Accuracy: 0.4572
+                        Train average Time: 74.7177
+                    

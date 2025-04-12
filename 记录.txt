@@ -1,0 +1,5 @@
+1~4: 训练120epoch，其他和train demo一样，对应四个activation_type
+5~6: 训练200epoch，其他和train demo一样，改为使用leakyrelu，学习率分别为0.02,0.005
+7~8：120epoch，学习率0.01，reg改为0.01和0.005
+9  ：120epoch，衰减率0.90
+10 : 训练120epoch，其他和train demo一样，使用softmax
